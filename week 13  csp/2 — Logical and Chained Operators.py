@@ -48,17 +48,18 @@ elif score < 60:
     print("Grade: F") 
 
 
-# if score is between 90-100 
-#assign grade A
-
-
 # Practice Problems:
 
 # Write an expression that checks if a number is between 50 and 100 (inclusive).
 
+number = int(print("What is your number?"))
+
+print(50 <= x <= 100)
+
 # Write an expression that checks if a number is NOT equal to 0 and greater than 10.
-
+y = int(input("Enter another number:"))
+print(y !=0 and y >10)
 # Use chained comparison to check if 3 < 4 < 5.
-
+print(3<4<5)
 # Challenge: Create a password rule using logical operators:
 
