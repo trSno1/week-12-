@@ -22,13 +22,18 @@ print(a <= b)   # True
 
 
 #predict the output of the following comparisons:
-10 > 5
-7 == 2 * 3 + 1
-8 != 8
-4 <= 2 + 2
+10 > 5          #true
+7 == 2 * 3 + 1  #true 
+8 != 8          #false
+4 <= 2 + 2      #true
 
 # Write 3 examples that result in True and 3 that result in False.
-
+5 > 3   
+2 > 1
+10 > 7
+8 < 9
+7 < 10
+11 < 12
 # Create a simple grade-checking condition:
 
 # practice problem :
